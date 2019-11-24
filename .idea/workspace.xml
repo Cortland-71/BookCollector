@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1U4khPKsJboh6ZXlD1B6cYNP2Ii" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CarrilloFinalExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.Controllers.CarrilloFinalExam" />
+      <module name="Carrillo_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarrilloFinalExam" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
